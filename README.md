@@ -3,18 +3,10 @@
 This is the pinteresting sample application for
 [*One Month Rails*](http://onemonthrails.com)
 
-*is this italics?*
+*this is test text*
 
-/what am i doing/
+# helloooooooo
 
-sup loser :P
-
-'c'
-
-# is this a title
-
-[clik 4 free mone$$](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-[seananners confirmed 2 spoopy 4 mortals](https://www.youtube.com/watch?v=PEaWLemZIzA)
+[testing something stupid]()
 
 by [Teagan Chapman](http://google.com)
