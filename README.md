@@ -15,4 +15,6 @@ sup loser :P
 
 [clik 4 free mone$$](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+[seananners confirmed 2 spoopy 4 mortals](https://www.youtube.com/watch?v=PEaWLemZIzA)
+
 by [Teagan Chapman](http://google.com)
